@@ -4,6 +4,11 @@ local addonName, addon = ...
 function addon:SetupDefaultEmojis()
     local x = self:GetEmojiSizeString()
 
+    -- DG Emojis
+
+    self:AddSmiley(":ana:", self:TextureString(addon.M..[[DGEmojis\AnaTheHoe.blp]], x))
+    self:AddSmiley(":barbie:", self:TextureString(addon.M..[[DGEmojis\BadBarbie.blp]], x))
+
     -- Normal Emojis
 
     self:AddSmiley(":angry:", self:TextureString(addon.M..[[Emojis\Angry.blp]], x))
