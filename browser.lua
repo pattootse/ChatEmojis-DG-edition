@@ -105,6 +105,7 @@ function addon:CreateEmojiBrowser()
     local categories = {
         {"All", nil},
         {"Favs", "Favorites"},
+        {"DG", "DGEmojis"},
         {"Standard", "Emojis"},
         {"Discord", "DiscordEmojis"},
         {"Pepe", "PepeEmojis"},
