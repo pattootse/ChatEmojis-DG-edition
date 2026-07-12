@@ -8,9 +8,9 @@ I am aware this can be resource intensive.
 ![image](https://github.com/user-attachments/assets/0a6eb773-1e03-4024-ab45-d8955a82c135)
 
 ### Installation
-1. Download **[Latest Version](https://github.com/Bennylavaa/ChatEmojis/archive/master.zip)**
+1. Download **[Latest Version](https://github.com/pattootse/ChatEmojis-DG-edition/archive/master.zip)**
 2. Unpack the Zip file
-3. Rename the folder "ChatEmojis-master" to "ChatEmojis"
+3. Rename the folder "ChatEmojis-DG-edition-main" to "ChatEmojis"
 4. Copy "ChatEmojis" into Wow-Directory\Interface\AddOns
 5. Restart Wow
 
