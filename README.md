@@ -10,7 +10,8 @@ I am aware this can be resource intensive.
 ### Installation
 1. Download **[Latest Version](https://github.com/pattootse/ChatEmojis-DG-edition/releases)**
 2. Unpack the Zip file
-3. Copy "ChatEmojis-DB-edition-wotlk" into Wow-Directory\Interface\AddOns
+3. Rename folder from "ChatEmojis-DG-edtion-wotlk" to "ChatEmojis"
+4. Copy "ChatEmojis" into Wow-Directory\Interface\AddOns
 5. Restart Wow
 
 ## Features
