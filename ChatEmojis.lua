@@ -1,5 +1,5 @@
 local addonName, addon = ...
-addon.M = [[Interface\AddOns\ChatEmojis\Media\]]
+addon.M = [[Interface\AddOns\ChatEmojis-DG-edition\Media\]]
 
 -- Default settings
 addon.defaults = {
