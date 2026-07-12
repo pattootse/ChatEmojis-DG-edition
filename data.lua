@@ -6,8 +6,32 @@ function addon:SetupDefaultEmojis()
 
     -- DG Emojis
 
-    self:AddSmiley(":ana:", self:TextureString(addon.M..[[DGEmojis\AnaTheHoe.blp]], x))
-    self:AddSmiley(":barbie:", self:TextureString(addon.M..[[DGEmojis\BadBarbie.blp]], x))
+    self:AddSmiley(":alahthalas:", self:TextureString(addon.M..[[DGEmojis\alahthalas.blp]], x))
+    self:AddSmiley(":big_tusk:", self:TextureString(addon.M..[[DGEmojis\big_tusk.blp]], x))
+    self:AddSmiley(":bignutz:", self:TextureString(addon.M..[[DGEmojis\bignutz.blp]], x))
+    self:AddSmiley(":bonar:", self:TextureString(addon.M..[[DGEmojis\bonar.blp]], x))
+    self:AddSmiley(":bush:", self:TextureString(addon.M..[[DGEmojis\bush.blp]], x))
+    self:AddSmiley(":chooch:", self:TextureString(addon.M..[[DGEmojis\chooch.blp]], x))
+    self:AddSmiley(":clownin:", self:TextureString(addon.M..[[DGEmojis\clownin.blp]], x))
+    self:AddSmiley(":go_on:", self:TextureString(addon.M..[[DGEmojis\go_on.blp]], x))
+    self:AddSmiley(":gorg:", self:TextureString(addon.M..[[DGEmojis\gorg.blp]], x))
+    self:AddSmiley(":goy:", self:TextureString(addon.M..[[DGEmojis\goy.blp]], x))
+    self:AddSmiley(":grrr:", self:TextureString(addon.M..[[DGEmojis\grrr.blp]], x))
+    self:AddSmiley(":hungko:", self:TextureString(addon.M..[[DGEmojis\hungko.blp]], x))
+    self:AddSmiley(":maxhung:", self:TextureString(addon.M..[[DGEmojis\maxhung.blp]], x))
+    self:AddSmiley(":maxmilk:", self:TextureString(addon.M..[[DGEmojis\maxmilk.blp]], x))
+    self:AddSmiley(":poundening:", self:TextureString(addon.M..[[DGEmojis\poundening.blp]], x))
+    self:AddSmiley(":ratino:", self:TextureString(addon.M..[[DGEmojis\ratino.blp]], x))
+    self:AddSmiley(":soyboi:", self:TextureString(addon.M..[[DGEmojis\soyboi.blp]], x))
+    self:AddSmiley(":sustino:", self:TextureString(addon.M..[[DGEmojis\sustino.blp]], x))
+    self:AddSmiley(":trauma:", self:TextureString(addon.M..[[DGEmojis\trauma.blp]], x))
+    self:AddSmiley(":vandead:", self:TextureString(addon.M..[[DGEmojis\vandead.blp]], x))
+    self:AddSmiley(":vvhat:", self:TextureString(addon.M..[[DGEmojis\vvhat.blp]], x))
+    self:AddSmiley(":why:", self:TextureString(addon.M..[[DGEmojis\why.blp]], x))
+    self:AddSmiley(":wicked:", self:TextureString(addon.M..[[DGEmojis\wicked.blp]], x))
+    self:AddSmiley(":wtfman:", self:TextureString(addon.M..[[DGEmojis\wtfman.blp]], x))
+    self:AddSmiley(":yuy:", self:TextureString(addon.M..[[DGEmojis\yuy.blp]], x))
+
 
     -- Normal Emojis
 
